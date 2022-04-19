@@ -1,0 +1,55 @@
+2021-12-27 23:56:43,442 - root - WARNING - The system has encountered The capacity of this event 0    zoo
+Name: name, dtype: object is running out, please check the warnning
+2021-12-27 23:57:03,937 - file_logging - DEBUG - The system has message a user log in 
+2021-12-27 23:59:19,686 - file_logging - DEBUG - The system has message a user log in 
+2021-12-28 00:00:05,823 - file_logging - DEBUG - The system has message a customer buy a ticket This money 270000 was credited to your account
+2021-12-28 00:00:05,823 - file_logging - DEBUG - The system has message a customer buy a ticket This money 270000 was credited to your account
+2021-12-28 00:00:55,726 - file_logging - DEBUG - The system has message a customer buy a ticket This money 270000 was credited to your account
+2021-12-28 00:00:55,726 - file_logging - DEBUG - The system has message a customer buy a ticket This money 270000 was credited to your account
+2021-12-28 00:00:55,726 - file_logging - DEBUG - The system has message a customer buy a ticket This money 270000 was credited to your account
+2021-12-28 00:01:25,455 - root - WARNING - The system has encountered The capacity of this event 0    zoo
+Name: name, dtype: object is running out, please check the warnning
+2021-12-28 00:03:41,053 - file_logging - DEBUG - The system has message a user log in 
+2021-12-28 00:04:27,183 - file_logging - DEBUG - The system has message a customer buy a ticket This money 1080000 was credited to your account
+2021-12-28 00:04:27,183 - file_logging - DEBUG - The system has message a customer buy a ticket This money 1080000 was credited to your account
+2021-12-28 00:04:45,805 - root - WARNING - The system has encountered The capacity of this event 0    zoo
+Name: name, dtype: object is running out, please check the warnning
+2021-12-28 00:04:50,097 - file_logging - DEBUG - The system has message System has a request to show event
+2021-12-28 00:04:50,097 - file_logging - DEBUG - The system has message System has a request to show event
+2021-12-28 00:04:50,097 - file_logging - DEBUG - The system has message System has a request to show event
+2021-12-28 00:06:27,819 - file_logging - DEBUG - The system has message a user log in 
+2021-12-28 00:07:08,928 - file_logging - DEBUG - The system has message a customer buy a ticket This money 378000 was credited to your account
+2021-12-28 00:07:08,928 - file_logging - DEBUG - The system has message a customer buy a ticket This money 378000 was credited to your account
+2021-12-28 00:07:25,433 - root - WARNING - The system has encountered The capacity of this event 0    zoo
+Name: name, dtype: object is running out, please check the warnning
+2021-12-28 00:07:43,891 - file_logging - DEBUG - The system has message a user log in 
+2021-12-28 00:07:43,891 - file_logging - DEBUG - The system has message a user log in 
+2021-12-28 00:07:43,891 - file_logging - DEBUG - The system has message a user log in 
+2021-12-28 00:08:56,159 - file_logging - DEBUG - The system has message a customer buy a ticket This money 1080000 was credited to your account
+2021-12-28 00:08:56,159 - file_logging - DEBUG - The system has message a customer buy a ticket This money 1080000 was credited to your account
+2021-12-28 00:08:56,159 - file_logging - DEBUG - The system has message a customer buy a ticket This money 1080000 was credited to your account
+2021-12-28 00:08:56,159 - file_logging - DEBUG - The system has message a customer buy a ticket This money 1080000 was credited to your account
+2021-12-28 00:09:28,223 - root - WARNING - The system has encountered The capacity of this event 0    zoo
+Name: name, dtype: object is running out, please check the warnning
+2021-12-28 00:09:28,223 - root - WARNING - The system has encountered The capacity of this event 0    zoo
+Name: name, dtype: object is running out, please check the warnning
+2021-12-28 00:09:50,420 - file_logging - DEBUG - The system has message a user log in 
+2021-12-28 00:09:50,420 - file_logging - DEBUG - The system has message a user log in 
+2021-12-28 00:09:50,420 - file_logging - DEBUG - The system has message a user log in 
+2021-12-28 00:09:50,420 - file_logging - DEBUG - The system has message a user log in 
+2021-12-28 00:09:50,420 - file_logging - DEBUG - The system has message a user log in 
+2021-12-28 00:10:27,236 - file_logging - DEBUG - The system has message a customer buy a ticket This money 200000  was credited to your account
+2021-12-28 00:10:27,236 - file_logging - DEBUG - The system has message a customer buy a ticket This money 200000  was credited to your account
+2021-12-28 00:10:27,236 - file_logging - DEBUG - The system has message a customer buy a ticket This money 200000  was credited to your account
+2021-12-28 00:10:27,236 - file_logging - DEBUG - The system has message a customer buy a ticket This money 200000  was credited to your account
+2021-12-28 00:10:27,236 - file_logging - DEBUG - The system has message a customer buy a ticket This money 200000  was credited to your account
+2021-12-28 00:10:27,236 - file_logging - DEBUG - The system has message a customer buy a ticket This money 200000  was credited to your account
+2021-12-28 00:10:44,213 - file_logging - DEBUG - The system has message a customer buy a ticket This money 200000  was credited to your account
+2021-12-28 00:10:44,213 - file_logging - DEBUG - The system has message a customer buy a ticket This money 200000  was credited to your account
+2021-12-28 00:10:44,213 - file_logging - DEBUG - The system has message a customer buy a ticket This money 200000  was credited to your account
+2021-12-28 00:10:44,213 - file_logging - DEBUG - The system has message a customer buy a ticket This money 200000  was credited to your account
+2021-12-28 00:10:44,213 - file_logging - DEBUG - The system has message a customer buy a ticket This money 200000  was credited to your account
+2021-12-28 00:10:44,213 - file_logging - DEBUG - The system has message a customer buy a ticket This money 200000  was credited to your account
+2021-12-28 00:10:44,213 - file_logging - DEBUG - The system has message a customer buy a ticket This money 200000  was credited to your account
+2021-12-28 00:11:15,739 - root - WARNING - The system has encountered The capacity of this event 0    zoo
+Name: name, dtype: object is running out, please check the warnning
